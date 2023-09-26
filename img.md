@@ -1,1 +1,1 @@
-![Banner](/Imagenes/banner.jpg)
+![Banner](\Users\aldri\OneDrive\Escritorio\Imagenes/banner.png)
