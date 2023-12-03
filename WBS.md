@@ -1,12 +1,22 @@
 WBS COSTOS Y HORAS TOTALES
 Cost: 17,500 
 
-Horas totales: 264  
+
+Horas totales: 264 
+
 
 Salario por hora= 17,500 / 264 (horas) = $66 pesos/hora 
+
+
 WBS 
+
+
 1.Sprint 11: Interface completion and unit testing
+
+
 Duración total del sprint: 264 horas
+
+
 Costos totales: 17,500 MXN
  1.1 Feedback de las entregas anteriores
 1.1.1	Corrección de requerimientos 
