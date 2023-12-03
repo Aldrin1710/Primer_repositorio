@@ -1,6 +1,8 @@
 WBS COSTOS Y HORAS TOTALES
-Cost: 17,500
+Cost: 17,500 
+
 Horas totales: 264  
+
 Salario por hora= 17,500 / 264 (horas) = $66 pesos/hora 
 WBS 
 1.Sprint 11: Interface completion and unit testing
